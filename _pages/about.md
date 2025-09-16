@@ -55,8 +55,8 @@ My research interest includes machine learning with spiking neural networks and 
 - *2023.07* 🎉Academic New Star. 2023 IJCAI Youth Elite Academic Conference.
 
 # 📖 Educations
-- *2020.09 - Now*, Ph.D. program. School of Computer Science, Peking University, Beijing.
-- *2016.09 - 2020.06*, Undergraduate program. Schoel of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan. 
+- *2020.09 - 2025.06*, Ph.D. program. School of Computer Science, Peking University, Beijing, China.
+- *2016.09 - 2020.06*, Undergraduate program. Schoel of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China. 
 
 # 💬 Invited Talks
 - *2022.12*, Is end-to-end backpropagation a double-edged sword for spiking neural networks? The 2nd New Year Interdisciplinary Forum on Neural Networks.  \| [\[video\]](https://www.koushare.com/live/details/14791) (Online)
