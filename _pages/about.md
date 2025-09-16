@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at Peking University, expected to graduate in 2025. My research focuses on spike-based artificial intelligence and spiking neural networks. My mission is to empower spike-based AI and promote the field of artificial intelligence towards a sustainable development path. If you're interested in my work or have any questions, feel free to reach out to me at **djh01998@stu.pku.edu.cn**.
+I am currently a postdoctoral fellow at Peking University. I received my Ph.D. degree in 2025 from Peking University under the supervision of Prof. Tiejun Huang. Prior to my doctoral studies, I obtained my B.S. degree from Huazhong University of Science and Technology. My research focuses on spike-based artificial intelligence and spiking neural networks. My mission is to empower spike-based AI and promote the field of artificial intelligence towards a sustainable development path. If you're interested in my work or have any questions, feel free to reach out to me at **djh01998@alumni.pku.edu.cn**.
 
-My research interest includes machine learning with spiking neural networks and neuromorphic hardware. I have published more than 10 papers at the top international AI conferences (NeurIPS, ICLR, CVPR, AAAI, IJCAI, etc.) with total <a href='https://scholar.google.com/citations?user=4rDfCSsAAAAJ'>google scholar citations <strong><span id='total_cit'>660+</span></strong></a>. I also serve as reviewers for AI conferences (NeurIPS, ICLR, ACMMM, IJCAI, CVPR, ICCV, ECCV) and journals (TPAMI, TNNLS).
+My research interest includes machine learning with spiking neural networks and neuromorphic hardware. I have published papers at the top international AI conferences (NeurIPS, ICLR, CVPR, AAAI, IJCAI, etc.) and journals. I also serve as reviewers for AI conferences (NeurIPS, ICLR, ACMMM, IJCAI, CVPR, ICCV, ECCV) and journals (TPAMI, TNNLS).
+
+<!-- with total <a href='https://scholar.google.com/citations?user=4rDfCSsAAAAJ'>google scholar citations <strong><span id='total_cit'>1000+</span></strong></a>. -->
 
 <!-- with total <a href='https://scholar.google.com/citations?user=4rDfCSsAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=4rDfCSsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
