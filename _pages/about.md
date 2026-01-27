@@ -27,6 +27,7 @@ My research interest includes machine learning with spiking neural networks and 
 
 
 # 🔥 News
+- *2025.10*：&nbsp;🎉🎉 Happy to beselected as a NeurIPS 2025 Top Reviewer. 
 - *2023.07*：&nbsp;🎉🎉 Happy to be granted Academic New Star in 2023 IJCAI Young Elite Symposium.
 - *2023.04*：&nbsp;🎉🎉 Happy to be granted Outstanding Oral Presentation Award in the 5th Academic Forum on Artificial Intelligence of Beijing Univerisities.
 - *2023.02*: &nbsp;🎉🎉 Happy to participant in the project of SpikeCV and received Excellent developer in the Openi open source community.
