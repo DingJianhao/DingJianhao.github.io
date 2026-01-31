@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral fellow at Peking University. I received my Ph.D. degree in 2025 from Peking University under the supervision of Prof. Tiejun Huang. Prior to my doctoral studies, I obtained my B.S. degree from Huazhong University of Science and Technology. My research focuses on spike-based artificial intelligence and spiking neural networks. My mission is to empower spike-based AI and promote the field of artificial intelligence towards a sustainable development path. If you're interested in my work or have any questions, feel free to reach out to me at **djh01998@alumni.pku.edu.cn**.
+I received my Ph.D. degree in 2025 from Peking University under the supervision of Prof. Tiejun Huang. Prior to my doctoral studies, I obtained my B.S. degree from Huazhong University of Science and Technology. My research focuses on spike-based artificial intelligence and spiking neural networks. My mission is to empower spike-based AI and promote the field of artificial intelligence towards a sustainable development path. If you're interested in my work or have any questions, feel free to reach out to me at **djh01998@alumni.pku.edu.cn**.
 
 My research interest includes machine learning with spiking neural networks and neuromorphic hardware. I have published papers at the top international AI conferences (NeurIPS, ICLR, CVPR, AAAI, IJCAI, etc.) and journals. I also serve as reviewers for AI conferences (NeurIPS, ICLR, ACMMM, IJCAI, CVPR, ICCV, ECCV) and journals (TPAMI, TNNLS).
 
